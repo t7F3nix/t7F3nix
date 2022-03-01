@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @t7F3nix
-- 👀 I’m interested in ... learning everything what my brain cam stack 
+- 👀 I’m interested in ... learning everything what my brain can stack 
 - 🌱 I’m currently learning ... data science
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
